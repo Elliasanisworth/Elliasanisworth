@@ -22,13 +22,13 @@ I'm a self-taught developer exploring the creative and technical sides of buildi
 - 🎨 [Cynthia Ugwu Website Clone (Older Version)](https://github.com/Elliasanisworth/Hudu)  
   _A partial clone of Cynthia Ugwu’s older site, built with React and Vite. Inspired by a tutorial from Sheriyan Coding School._
 
-- 🛒 [Snatch – E-commerce Web App]((https://github.com/Elliasanisworth/Snatch))  
+- 🛒 [Snatch – E-commerce Web App](https://github.com/Elliasanisworth/Snatch)  
   _A simplified e-commerce platform with user login, cart system, and responsive design. Built using EJS, Node.js, and Express. Future updates include search and payment integration._
 
-- 🚕 Uber Mobile Web Clone *(WIP)*  
+- 🚕 Uber Mobile Web Clone *(Work In Progress)*  
   _Rebuilding Uber’s experience for mobile web — focused on layout and flow._
 
-- 🎮 2D Game *(WIP)*  
+- 🎮 2D Game *(Work In Preogress)*  
   _Experimenting with simple game logic and interaction._
 
 - 📦 [Mini Project Repo](https://github.com/Elliasanisworth/My-projects)  
@@ -44,7 +44,7 @@ I'm a self-taught developer exploring the creative and technical sides of buildi
 ## 📬 Let's Connect
 
 - 🌐 [Portfolio (coming soon)]()
-- 📎 [LinkedIn]((https://www.linkedin.com/in/shashwat-srivastava-866467298/))
+- 📎 [LinkedIn](https://www.linkedin.com/in/shashwat-srivastava-866467298/)
 - 🗂️ [All Projects](https://github.com/Elliasanisworth)
 
 ---
